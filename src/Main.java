@@ -76,6 +76,7 @@ public class Main {
                         System.out.println("Автобус забит");
 
                     }
+                }
 
                     int one = 1 ;
                     int two =2;
@@ -96,7 +97,7 @@ public class Main {
         }
 
     }
-    }
+
 
 
 
